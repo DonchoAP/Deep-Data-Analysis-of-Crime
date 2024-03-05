@@ -33,7 +33,7 @@ Contributing
 While this project is primarily a showcase of my work, contributions, suggestions, and discussions are welcome. If you have ideas on how to improve the analysis or explore new angles, feel free to open an issue or submit a pull request.
 
 Contact
-For any inquiries or further discussions, please contact me at YourEmail@example.com.
+For any inquiries or further discussions, please contact me at doncho.ap@gmail.com.
 
 Acknowledgments
 Special thanks to the Chicago Police Department and the City of Chicago for making their crime data publicly accessible, enabling this analysis.
