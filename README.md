@@ -21,12 +21,6 @@ The primary dataset used in this analysis is the `ChicagoCrimeData` from the Chi
 1. **Predictive Modeling**: Using machine learning to predict future crime rates.
 2. **Data Visualization**: Creating visual representations of the analysis findings.
 
-## Repository Structure
-- `/sql_queries`: Contains SQL scripts for data extraction and initial analysis.
-- `/python_notebooks`: Contains Jupyter notebooks for advanced analysis and predictive modeling.
-- `/data`: Sample data files (if applicable).
-- `/visualizations`: Generated charts and graphs.
-- `README.md`: This document, providing an overview of the project and instructions.
 
 ## Getting Started
 To replicate this analysis, you will need access to SQL Server and a Python environment set up with the necessary libraries. Follow the instructions in each subdirectory to run the SQL queries and Python notebooks.
